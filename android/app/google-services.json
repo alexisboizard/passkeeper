@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892985348555",
+    "project_id": "passkeeper-ec7bd",
+    "storage_bucket": "passkeeper-ec7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892985348555:android:86c75f12b87fcc8d35a64e",
+        "android_client_info": {
+          "package_name": "com.example.passkeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthYn0ru4YLE2YUKK9VlcVawTedA78Ax0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

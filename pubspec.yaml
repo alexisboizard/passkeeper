@@ -1,0 +1,31 @@
+name: passkeeper
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Jura
+      fonts:
+        - asset: fonts/Jura-VariableFont_wght.ttf
+  assets:
+    - assets/icons/browser.svg
+    - assets/icons/credit_card.svg
+    - assets/icons/smartphone.svg
+    
+
+
